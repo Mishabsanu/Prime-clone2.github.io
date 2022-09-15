@@ -1,0 +1,338 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu';
+    
+
+}
+.main3{
+    padding-left: 1253px;
+    padding-top: 39px;
+
+
+}
+.menu{
+    overflow: hidden;
+    float: left;
+    color: #fff;
+    padding-top: 11px;
+    margin: 13px;
+}
+.menuicon{
+    width: 17px;
+    height: 16px;
+    float: left;
+    padding-top: 25px;
+    padding-left: 5px;
+
+}
+.menuicon1{
+    width: 17px;
+    height: 16px;
+    float: left;
+    padding-left: 19px;
+    color: white;
+
+}
+.main{
+    width: 100%;
+    height: 80px;
+    background-color:#202735;
+   
+}
+
+   
+
+.logo{
+    background-position: left 0;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    width: 112px;
+    padding-left: 60px;
+    float: left;
+}
+.btn{
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #0f79af;
+    color: #fff;
+    border: #0f79af;
+    margin: -350px;
+
+}
+
+.photo1{
+    
+    width: 100%;
+    height: 580px;
+}
+.photo2{
+    width: 1522px;
+    height: 580px;
+    margin-top: -4px; 
+}
+.bord1{
+ 
+    max-width: 256px;
+    padding-left: 770px;
+    padding-top: 19px;
+    height: 154px;
+}
+.bord2{
+    max-width: 256px;
+    height: 154px;  
+}
+.bord3{
+    max-width: 256px;
+    height: 154px; 
+}
+.bord4{
+    max-width: 256px;
+    height: 154px;
+    padding-left: 770px;
+}
+.bord5{
+    max-width: 256px;
+    height: 154px;
+}
+.bord6{
+    max-width: 256px;
+    height: 154px;
+}
+.bord7{
+    
+    max-width: 256px;
+    height: 154px;
+    padding-left:770px;
+}
+    
+.bord8{
+    max-width: 256px;
+    height: 154px;
+}
+
+.bord9{
+    max-width: 256px;
+    height: 154px;
+}
+.photo3{
+    width: 1522px;
+    height: 580px;
+    margin-top: 21px;
+}
+.photo4{
+    width: 1522px;
+    height: 580px;
+    margin-top: -157px;
+}
+.footer{
+    width: 1522px;
+    background-color:#252728; 
+    height: 190px;
+    margin-top: -4px;
+}
+.footerph{
+    width: 115px;
+    height: 37px;
+    padding-left: 724px;
+    padding-top: 21px;
+
+}
+
+.ph1brd1{
+    position: relative;
+}
+.phototext{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    padding-top: 54px;
+    padding-left: 76px;
+    font-family: 'Ubuntu';
+
+}
+.startmain{
+    padding-top: 20px;
+}
+.pribtn{
+    padding: 16px;
+    padding-left: 37px;
+    padding-right: 40px;
+    background-color: #0f79af;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+
+
+}
+.sel{
+    font-size: 14px;
+    padding-left: 19px;
+    padding-top: 14px;
+
+}
+.p1{
+    font-size: 24px;
+    font-family: 'Ubuntu';
+}
+.prime{
+    font-size: 45px;
+    font-family: 'Ubuntu';
+    padding-top: 65px;
+    line-height: 92px;
+
+}
+.ph1brd2{
+    position: relative;
+
+
+}
+.movi{
+    font-size:44px ;
+    font-family: 'Ubuntu';
+    padding-top: 67px;
+    line-height: 96px;
+
+}
+.p2{
+    font-size: 22px;
+    font-family: 'Ubuntu';
+}
+.movbtn{
+    padding: 16px;
+    padding-left: 100px;
+    padding-right: 106px;
+    background-color: #0f79af;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+
+}
+.movemain{
+    padding-top: 33px;
+}
+.photo2text{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    padding-top: 86px;
+    padding-left: 76px;
+    font-family: "Amazon Ember";
+}
+.ph1brd3{
+    position: relative;
+}
+.photo3text{
+    position: absolute;
+    top: 0;
+    color:black;
+    margin-top: -21px;
+    padding-left: 79px;
+    font-family: 'Ubuntu';
+}
+.fav{
+    font-size: 45px;
+    padding-top: 69px;
+
+
+}
+.wt{
+    font-size: 25px;
+    padding-top: 20px;
+}
+.ph1brd4{
+    position: relative;
+}
+.photo4text{
+    position: absolute;
+    top: 0;
+    color:#fff;
+    padding-left: 760px;
+    font-family: 'Ubuntu';
+    padding-top: 71px;
+
+}
+.get{
+    padding: 16px;
+    padding-left: 99px;
+    padding-right: 100px;
+    background-color: #0f79af;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+
+}
+.getbutn{
+    padding-top: 26px;
+}
+.big{
+    font-size: 23px;
+    padding-top: 28px;
+
+}
+.btr{
+    font-size: 43px;
+
+}
+.ph1brd5{
+    position: relative;
+
+}
+.photo5text{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    padding-left: 65px;
+    font-family: 'Ubuntu';
+    margin-top: -132px;
+}
+.frd{
+    font-size: 45px;
+    padding-top: 91px;
+
+}
+.esy{
+    font-size: 23px;
+    padding-top: 29px;
+
+}
+.gbut{
+    padding: 16px;
+    padding-left: 99px;
+    padding-right: 100px;
+    background-color: #0f79af;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+
+
+}
+.getmain{
+    padding-top: 43px;
+}
+.blue{
+    color:#0f79af;
+    padding-left: 428px;
+    font-size: 17;
+}
+.black{
+    color: #949494;
+    margin: -18px;
+    padding-left: 802px;
+    font-size: 17;
+}
+
+
+
+
+
+
+
